@@ -19,7 +19,7 @@ class SoftwareEngineer:
         print(f"Hi my name is {self.name} and I am a {self.role}. Thanks for dropping by!")
 
 
-me = SoftwareEngineer('Appa', 'Flying Bison')
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
